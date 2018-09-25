@@ -1,5 +1,4 @@
-### ■ READMEに画像をUPする方法  
-　  
+### ■ READMEに画像をUPする方法
 １、アップしたいリポジトリの "Issues" をクリック
 ![issues](https://user-images.githubusercontent.com/39142850/45180408-45a25c00-b256-11e8-9a34-37f3d58fd7df.png)  
 　  
@@ -12,11 +11,12 @@
 ４、画像がアップロードされるのでURLをコピーして"README.md"に貼り付ける  
 ![complete](https://user-images.githubusercontent.com/39142850/45180927-e5acb500-b257-11e8-92cb-02302dbf0662.png)  
 　  
-５、Issuesに投稿したページを"保存せず"に、そのまま閉じたら完了です。    
-　
- 
-### ■ 絵文字一覧  
-Qiita：[リンク](https://qiita.com/yamadashiii/items/ae673f2bae8f1525b6af)  
+５、Issuesに投稿したページを"保存せず"に、そのまま閉じたら完了です。  
 　  
-### ■ GitHubマークダウン  
-ブログ：[リンク](https://web-generalist.com/github-comment-markdown/)
+### ■ GitHub  
+・[GitHubのマークダウン](https://web-generalist.com/github-comment-markdown/)  
+・[Qiita/Github/Slack/Discord 絵文字一覧](https://qiita.com/yamadashiii/items/ae673f2bae8f1525b6af)
+
+### ■ Unity
+・[SourceTreeを使ってUnityプロジェクトをgitで管理](http://sleepnel.hatenablog.com/entry/2017/01/02/161600)  
+・[GitHubでブラウザゲーを公開する手順](http://ch.nicovideo.jp/lackLucky/blomaga/ar1467447)
