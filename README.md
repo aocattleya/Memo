@@ -19,4 +19,5 @@
 
 ### ■ Unity
 ・[SourceTreeを使ってUnityプロジェクトをgitで管理](http://sleepnel.hatenablog.com/entry/2017/01/02/161600)  
-・[GitHubでブラウザゲーを公開する手順](http://ch.nicovideo.jp/lackLucky/blomaga/ar1467447)
+・[GitHubでブラウザゲーを公開する手順](http://ch.nicovideo.jp/lackLucky/blomaga/ar1467447)  
+・[Unity向け .gitignoreの設定](https://qiita.com/nariya/items/97afba6b7b448920cdf0)
