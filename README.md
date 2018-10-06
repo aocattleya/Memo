@@ -21,3 +21,9 @@
 ・[SourceTreeを使ってUnityプロジェクトをgitで管理](http://sleepnel.hatenablog.com/entry/2017/01/02/161600)  
 ・[GitHubでブラウザゲーを公開する手順](http://ch.nicovideo.jp/lackLucky/blomaga/ar1467447)  
 ・[Unity向け .gitignoreの設定](https://qiita.com/nariya/items/97afba6b7b448920cdf0)
+
+### ■ Python
+・[Python チュートリアル](https://docs.python.jp/3/tutorial/)  
+・[Python3エンジニア認定基礎模擬試験](https://diver.diveintocode.jp/exam#exam-list)  
+・[Python3エンジニア認定基礎試験の効率的な勉強方法](https://ccie-go.com/python-exam-study/)  
+・[Python資格落ちた人の体験談](http://aimek-developer.blogspot.com/2018/03/python3.html)
