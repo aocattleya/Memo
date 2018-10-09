@@ -23,8 +23,9 @@
 ・[Unity向け .gitignoreの設定](https://qiita.com/nariya/items/97afba6b7b448920cdf0)
 
 ### ■ Python
-・[Python入門](http://www.tohoho-web.com/python/index.html)  
+・[Python 入門](http://www.tohoho-web.com/python/index.html)  
 ・[Python チュートリアル](https://docs.python.jp/3/tutorial/)  
-・[Python3エンジニア認定基礎模擬試験](https://diver.diveintocode.jp/exam#exam-list)  
-・[Python3エンジニア認定基礎試験の効率的な勉強方法](https://ccie-go.com/python-exam-study/)  
-・[Python資格落ちた人の体験談](http://aimek-developer.blogspot.com/2018/03/python3.html)
+・[PyQ おすすめ有料学習サイト](https://pyq.jp/)  
+・[Python3 エンジニア認定基礎模擬試験](https://diver.diveintocode.jp/exam#exam-list)  
+・[Python3 エンジニア認定基礎試験の効率的な勉強方法](https://ccie-go.com/python-exam-study/)  
+・[Python 資格落ちた人の体験談](http://aimek-developer.blogspot.com/2018/03/python3.html)
