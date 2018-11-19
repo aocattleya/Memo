@@ -17,6 +17,9 @@
 ・[GitHubのマークダウン](https://web-generalist.com/github-comment-markdown/)  
 ・[Qiita/Github/Slack/Discord 絵文字一覧](https://qiita.com/yamadashiii/items/ae673f2bae8f1525b6af)
 
+### ■ VisualStudio
+・[VisualStudio ショートカットキー](https://beachside.hatenablog.com/entry/2015/12/09/000000)
+
 ### ■ Unity
 ・[SourceTreeを使ってUnityプロジェクトをgitで管理](http://sleepnel.hatenablog.com/entry/2017/01/02/161600)  
 ・[GitHubでブラウザゲーを公開する手順](http://ch.nicovideo.jp/lackLucky/blomaga/ar1467447)  
