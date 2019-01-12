@@ -26,6 +26,7 @@
 ・[Unity向け .gitignoreの設定](https://qiita.com/nariya/items/97afba6b7b448920cdf0)
 
 ### ■ Python
+・[【Python】Jupyter notebookの基本的な使い方を分かりやすく説明する](https://tkstock.site/2018/04/17/post-194/)  
 ・[Python 入門](http://www.tohoho-web.com/python/index.html)  
 ・[Python チュートリアル](https://docs.python.jp/3/tutorial/)  
 ・[PyQ おすすめ有料学習サイト](https://pyq.jp/)  
