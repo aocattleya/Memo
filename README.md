@@ -17,6 +17,9 @@
 ・[GitHubのマークダウン](https://web-generalist.com/github-comment-markdown/)  
 ・[Qiita/Github/Slack/Discord 絵文字一覧](https://qiita.com/yamadashiii/items/ae673f2bae8f1525b6af)
 
+### ■ Android Studio  
+・[【Mac】Android Studioのインストール方法](https://qiita.com/yacchi1123/items/75303c0ad05a188a28eb)  
+
 ### ■ VisualStudio
 ・[VisualStudio ショートカットキー](https://beachside.hatenablog.com/entry/2015/12/09/000000)
 
