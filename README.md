@@ -15,30 +15,22 @@
 　  
 ### ■ GitHub  
 ・[GitHubのマークダウン](https://web-generalist.com/github-comment-markdown/)  
-・[Qiita/Github/Slack/Discord 絵文字一覧](https://qiita.com/yamadashiii/items/ae673f2bae8f1525b6af)
-
-### ■ Android Studio  
-・[【Mac】Android Studioのインストール方法](https://qiita.com/yacchi1123/items/75303c0ad05a188a28eb)  
-
-### ■ VisualStudio
-・[VisualStudio ショートカットキー](https://beachside.hatenablog.com/entry/2015/12/09/000000)
-
-### ■ Unity
-・[SourceTreeを使ってUnityプロジェクトをgitで管理](http://sleepnel.hatenablog.com/entry/2017/01/02/161600)  
-・[GitHubでブラウザゲーを公開する手順](http://ch.nicovideo.jp/lackLucky/blomaga/ar1467447)  
-・[Unity向け .gitignoreの設定](https://qiita.com/nariya/items/97afba6b7b448920cdf0)
+・[Qiita/Github/Slack/Discord 絵文字一覧](https://qiita.com/yamadashiii/items/ae673f2bae8f1525b6af)  
+・[コミットメッセージに 「プレフィックス」 をつけるだけで、開発効率が上がった話](https://qiita.com/numanomanu/items/45dd285b286a1f7280ed)
 
 ### ■ Python
 ・[【Python】Jupyter notebookの基本的な使い方を分かりやすく説明する](https://tkstock.site/2018/04/17/post-194/)  
 ・[Python 入門](http://www.tohoho-web.com/python/index.html)  
 ・[Python チュートリアル](https://docs.python.jp/3/tutorial/)  
 ・[PyQ おすすめ有料学習サイト](https://pyq.jp/)  
-・[Python3 エンジニア認定基礎模擬試験](https://diver.diveintocode.jp/exam#exam-list)  
-・[Python3 エンジニア認定基礎試験の効率的な勉強方法](https://ccie-go.com/python-exam-study/)  
-・[Python 資格落ちた人の体験談](http://aimek-developer.blogspot.com/2018/03/python3.html)
 
-### ■ vsCode
+### ■ VSCode
 ・[コーディングをAIが支援してくれる「Visual Studio IntelliCode」](https://www.publickey1.jp/blog/18/aivisual_studio_intellicodejavagithub.html)
+
+### ■ Unity
+・[SourceTreeを使ってUnityプロジェクトをgitで管理](http://sleepnel.hatenablog.com/entry/2017/01/02/161600)  
+・[GitHubでブラウザゲーを公開する手順](http://ch.nicovideo.jp/lackLucky/blomaga/ar1467447)  
+・[Unity向け .gitignoreの設定](https://qiita.com/nariya/items/97afba6b7b448920cdf0)
 
 ### ■ その他
 ・[プログラマが知るべき97のこと](https://xn--97-273ae6a4irb6e2hsoiozc2g4b8082p.com/)
