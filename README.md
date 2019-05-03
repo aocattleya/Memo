@@ -16,7 +16,8 @@
 ### ■ GitHub  
 ・[GitHubのマークダウン](https://web-generalist.com/github-comment-markdown/)  
 ・[Qiita/Github/Slack/Discord 絵文字一覧](https://qiita.com/yamadashiii/items/ae673f2bae8f1525b6af)  
-・[コミットメッセージに 「プレフィックス」 をつけるだけで、開発効率が上がった話](https://qiita.com/numanomanu/items/45dd285b286a1f7280ed)
+・[コミットメッセージに 「プレフィックス」 をつけるだけで、開発効率が上がった話](https://qiita.com/numanomanu/items/45dd285b286a1f7280ed)  
+・[うちゅういちかんたんなポートフォリオのつくりかた](https://qiita.com/suikasu123/items/c1cfda179078b923084f)
 
 ### ■ Python
 ・[【Python】Jupyter notebookの基本的な使い方を分かりやすく説明する](https://tkstock.site/2018/04/17/post-194/)  
