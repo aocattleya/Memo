@@ -28,6 +28,9 @@
 ### ■ VSCode
 ・[コーディングをAIが支援してくれる「Visual Studio IntelliCode」](https://www.publickey1.jp/blog/18/aivisual_studio_intellicodejavagithub.html)
 
+### ■ WordPress
+・[1時間で出来る！最強のWordPress環境構築(永久無料)](https://qiita.com/ryuta69/items/dbb0db5cf7099b7a7cc4)
+
 ### ■ Unity
 ・[SourceTreeを使ってUnityプロジェクトをgitで管理](http://sleepnel.hatenablog.com/entry/2017/01/02/161600)  
 ・[GitHubでブラウザゲーを公開する手順](http://ch.nicovideo.jp/lackLucky/blomaga/ar1467447)  
