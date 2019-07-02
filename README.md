@@ -13,6 +13,9 @@
 　  
 ５、Issuesに投稿したページを"保存せず"に、そのまま閉じたら完了です。  
 　  
+### ■ 便利サイト  
+・[codic（変数名を作成）](https://codic.jp/)  
+
 ### ■ GitHub  
 ・[GitHubのマークダウン](https://web-generalist.com/github-comment-markdown/)  
 ・[Qiita/Github/Slack/Discord 絵文字一覧](https://qiita.com/yamadashiii/items/ae673f2bae8f1525b6af)  
