@@ -4,16 +4,16 @@
 ・[Waifu Labs](https://waifulabs.com/)
 
 ### ■ GitHub  
-・[GitHubのマークダウン](https://web-generalist.com/github-comment-markdown/)  
-・[Qiita/Github/Slack/Discord 絵文字一覧](https://qiita.com/yamadashiii/items/ae673f2bae8f1525b6af)  
-・[コミットメッセージに 「プレフィックス」 をつけるだけで、開発効率が上がった話](https://qiita.com/numanomanu/items/45dd285b286a1f7280ed)  
-・[うちゅういちかんたんなポートフォリオのつくりかた](https://qiita.com/suikasu123/items/c1cfda179078b923084f)
+・[GitHubマークダウン記法](https://web-generalist.com/github-comment-markdown/)  
+・[Qiita/Github/Slack 絵文字一覧](https://qiita.com/yamadashiii/items/ae673f2bae8f1525b6af)  
+・[少人数のチームで開発するときのGithubのブランチ運用Flow](https://qiita.com/tktktktk/items/8b40cde759554ea071f9)  
+・[コミットにプレフィックスをつけるだけで、開発効率が上がった話](https://qiita.com/numanomanu/items/45dd285b286a1f7280ed)    
 
-### ■ Python
-・[【Python】Jupyter notebookの基本的な使い方を分かりやすく説明する](https://tkstock.site/2018/04/17/post-194/)  
-・[Python 入門](http://www.tohoho-web.com/python/index.html)  
-・[Python チュートリアル](https://docs.python.jp/3/tutorial/)  
-・[PyQ おすすめ有料学習サイト](https://pyq.jp/)  
+### ■ Googleフォント
+・[文字指定でGoogleフォントを軽量に呼び出す方法](https://9-bb.com/%E5%BF%85%E8%A6%81%E3%81%AA%E6%96%87%E5%AD%97%E3%81%A0%E3%81%91%E6%8C%87%E5%AE%9A%E3%81%97%E3%81%A6google%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88%E3%82%92%E6%9C%80%E3%82%82%E8%BB%BD%E9%87%8F%E3%81%AB/)
+
+### ■ Vue.js
+・[Vue.js「コンポーネント」入門](https://qiita.com/kiyokiyo_kzsby/items/980c1dc45e00d2d3cbb4)
 
 ### ■ VSCode
 ・[コーディングをAIが支援してくれる「Visual Studio IntelliCode」](https://www.publickey1.jp/blog/18/aivisual_studio_intellicodejavagithub.html)
@@ -28,6 +28,8 @@
 
 ### ■ その他
 ・[プログラマが知るべき97のこと](https://xn--97-273ae6a4irb6e2hsoiozc2g4b8082p.com/)
+
+---
 
 ### ■ READMEに画像をUPする方法
 １、アップしたいリポジトリの "Issues" をクリック
