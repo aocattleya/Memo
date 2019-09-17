@@ -1,7 +1,12 @@
   
-### ■ 便利サイト  
+### ■ 便利サイト
 ・[codic（変数名を作成）](https://codic.jp/)  
 ・[Waifu Labs](https://waifulabs.com/)
+
+### ■ 画像圧縮
+・[TinyPNG](https://tinypng.com/)  
+・[GIF Compressor](https://gifcompressor.com/ja/)  
+・[Compressor.io](https://compressor.io/)
 
 ### ■ GitHub  
 ・[GitHubマークダウン記法](https://web-generalist.com/github-comment-markdown/)  
