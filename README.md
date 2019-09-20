@@ -1,7 +1,10 @@
   
 ### ■ 便利サイト
 ・[codic（変数名を作成）](https://codic.jp/)  
-・[Waifu Labs](https://waifulabs.com/)
+・[Waifu Labs](https://waifulabs.com/)  
+・[Web App Manifest Generator（マニュフェストファイル生成）](https://app-manifest.firebaseapp.com)  
+・[LAPRAS（ネット上の自分の影響力を可視化）](https://lapras.com/person)  
+・[PROCA（名刺サービス）](https://pro-ca.jp/)
 
 ### ■ 画像圧縮
 ・[TinyPNG](https://tinypng.com/)  
