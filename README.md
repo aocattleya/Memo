@@ -14,8 +14,8 @@
 ### ■ GitHub  
 ・[GitHubマークダウン記法](https://web-generalist.com/github-comment-markdown/)  
 ・[Qiita/Github/Slack 絵文字一覧](https://qiita.com/yamadashiii/items/ae673f2bae8f1525b6af)  
+・[Gitのコミットメッセージの書き方](https://qiita.com/itosho/items/9565c6ad2ffc24c09364)  
 ・[少人数のチームで開発するときのGithubのブランチ運用Flow](https://qiita.com/tktktktk/items/8b40cde759554ea071f9)  
-・[コミットにプレフィックスをつけるだけで、開発効率が上がった話](https://qiita.com/numanomanu/items/45dd285b286a1f7280ed)    
 
 ### ■ Googleフォント
 ・[文字指定でGoogleフォントを軽量に呼び出す方法](https://9-bb.com/%E5%BF%85%E8%A6%81%E3%81%AA%E6%96%87%E5%AD%97%E3%81%A0%E3%81%91%E6%8C%87%E5%AE%9A%E3%81%97%E3%81%A6google%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88%E3%82%92%E6%9C%80%E3%82%82%E8%BB%BD%E9%87%8F%E3%81%AB/)
