@@ -4,7 +4,9 @@
 ・[Waifu Labs](https://waifulabs.com/)  
 ・[Web App Manifest Generator（マニュフェストファイル生成）](https://app-manifest.firebaseapp.com)  
 ・[LAPRAS（ネット上の自分の影響力を可視化）](https://lapras.com/person)  
-・[PROCA（名刺サービス）](https://pro-ca.jp/)
+・[PROCA（名刺サービス）](https://pro-ca.jp/)  
+・[イメージカラーピッカー（画像から色を抽出）](https://lab.syncer.jp/Tool/Image-Color-Picker/)
+
 
 ### ■ 画像圧縮
 ・[TinyPNG](https://tinypng.com/)  
