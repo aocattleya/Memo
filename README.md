@@ -8,10 +8,11 @@
 ・[イメージカラーピッカー（画像から色を抽出）](https://lab.syncer.jp/Tool/Image-Color-Picker/)
 
 
-### ■ 画像圧縮
-・[TinyPNG](https://tinypng.com/)  
-・[GIF Compressor](https://gifcompressor.com/ja/)  
-・[Compressor.io](https://compressor.io/)
+### ■ 画像
+・[画像サイズ圧縮](https://tinypng.com/)  
+・[MP4をGIFに変換](https://www.aconvert.com/jp/video/mp4-to-gif/)  
+・[GIFサイズ圧縮](https://gifcompressor.com/ja/)  
+・[GIFサイズ圧縮](https://compressor.io/)
 
 ### ■ GitHub  
 ・[GitHubマークダウン記法](https://web-generalist.com/github-comment-markdown/)  
