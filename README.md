@@ -1,5 +1,8 @@
   
 ### ■ 便利サイト
+・[CSS最適化](https://csscompressor.com/)  
+・[JavaScript最適化](https://developers.google.com/closure/compiler/)  
+・[ホームページパーツ作成](https://webparts.cman.jp/)  
 ・[codic（変数名を作成）](https://codic.jp/)  
 ・[Waifu Labs](https://waifulabs.com/)  
 ・[Web App Manifest Generator（マニュフェストファイル生成）](https://app-manifest.firebaseapp.com)  
@@ -11,7 +14,6 @@
 ### ■ 画像
 ・[画像サイズ圧縮](https://tinypng.com/)  
 ・[MP4をGIFに変換](https://www.aconvert.com/jp/video/mp4-to-gif/)  
-・[GIFサイズ圧縮](https://gifcompressor.com/ja/)  
 ・[GIFサイズ圧縮](https://compressor.io/)
 
 ### ■ GitHub  
