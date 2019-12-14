@@ -6,6 +6,7 @@
 ・[JavaScript最適化](https://developers.google.com/closure/compiler/)  
 ・[ホームページパーツ作成](https://webparts.cman.jp/)  
 ・[codic（変数名を作成）](https://codic.jp/)  
+・[waifu2x](http://waifu2x.udp.jp/index.ja.html)  
 ・[Waifu Labs](https://waifulabs.com/)  
 ・[Web App Manifest Generator（マニュフェストファイル生成）](https://app-manifest.firebaseapp.com)  
 ・[LAPRAS（ネット上の自分の影響力を可視化）](https://lapras.com/person)  
