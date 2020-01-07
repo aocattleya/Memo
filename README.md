@@ -11,7 +11,8 @@
 ・[Web App Manifest Generator（マニュフェストファイル生成）](https://app-manifest.firebaseapp.com)  
 ・[LAPRAS（ネット上の自分の影響力を可視化）](https://lapras.com/person)  
 ・[PROCA（名刺サービス）](https://pro-ca.jp/)  
-・[イメージカラーピッカー（画像から色を抽出）](https://lab.syncer.jp/Tool/Image-Color-Picker/)
+・[イメージカラーピッカー（画像から色を抽出）](https://lab.syncer.jp/Tool/Image-Color-Picker/)  
+・[グラフィックデザインサイト](https://www.canva.com/)
 
 
 ### ■ 画像
@@ -29,8 +30,8 @@
 ・[文字指定でGoogleフォントを軽量に呼び出す方法](https://9-bb.com/%E5%BF%85%E8%A6%81%E3%81%AA%E6%96%87%E5%AD%97%E3%81%A0%E3%81%91%E6%8C%87%E5%AE%9A%E3%81%97%E3%81%A6google%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88%E3%82%92%E6%9C%80%E3%82%82%E8%BB%BD%E9%87%8F%E3%81%AB/)
 
 ### ■ CSS
-[【CSS3】@keyframes と animation 関連のまとめ](https://qiita.com/7968/items/1d999354e00db53bcbd8)
-[CSSのクラス名を決めるときに使うリスト](https://qiita.com/manabuyasuda/items/dbb76ed36970bec95470)
+・[【CSS3】@keyframes と animation 関連のまとめ](https://qiita.com/7968/items/1d999354e00db53bcbd8)  
+・[CSSのクラス名を決めるときに使うリスト](https://qiita.com/manabuyasuda/items/dbb76ed36970bec95470)
 
 
 ### ■ Vue.js
@@ -51,6 +52,14 @@
 ・[プログラマが知るべき97のこと](https://xn--97-273ae6a4irb6e2hsoiozc2g4b8082p.com/)
 
 ---
+
+## ■ chrome拡張機能なしで全画面キャプチャをダウンロードする方法
+
+開発者ツール開く  
+↓  
+⌘ + shift + P  
+↓  
+「full」と入力
 
 ### ■ READMEに画像をUPする方法
 １、アップしたいリポジトリの "Issues" をクリック
