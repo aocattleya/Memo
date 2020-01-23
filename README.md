@@ -1,5 +1,6 @@
   
 ### ■ 便利サイト
+・[JavaScriptのイベントをたくさん見られるサイト](https://listener.noplan.cc/)  
 ・[調和カラーパレット](http://paletta.mrk1869.com/)  
 ・[colrd](http://colrd.com/)  
 ・[CSS最適化](https://csscompressor.com/)  
@@ -12,7 +13,9 @@
 ・[LAPRAS（ネット上の自分の影響力を可視化）](https://lapras.com/person)  
 ・[PROCA（名刺サービス）](https://pro-ca.jp/)  
 ・[イメージカラーピッカー（画像から色を抽出）](https://lab.syncer.jp/Tool/Image-Color-Picker/)  
-・[グラフィックデザインサイト](https://www.canva.com/)
+・[グラフィックデザインサイト](https://www.canva.com/)  
+・[unsplash（フリー背景画像サイト）](https://unsplash.com/)
+
 
 
 ### ■ 画像
@@ -31,8 +34,9 @@
 
 ### ■ CSS
 ・[【CSS3】@keyframes と animation 関連のまとめ](https://qiita.com/7968/items/1d999354e00db53bcbd8)  
-・[CSSのクラス名を決めるときに使うリスト](https://qiita.com/manabuyasuda/items/dbb76ed36970bec95470)
-
+・[CSSのクラス名を決めるときに使うリスト](https://qiita.com/manabuyasuda/items/dbb76ed36970bec95470)  
+・[CSSのみでページを開くときのオープニングシャッター表現](https://digipress.info/tech/opening-loading-shutter-with-pure-css/)  
+・[最新版、レスポンシブデザインのブレークポイント](https://arts-factory.net/breakpoint/)
 
 ### ■ Vue.js
 ・[Vue.js「コンポーネント」入門](https://qiita.com/kiyokiyo_kzsby/items/980c1dc45e00d2d3cbb4)
