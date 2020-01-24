@@ -14,7 +14,8 @@
 ・[PROCA（名刺サービス）](https://pro-ca.jp/)  
 ・[イメージカラーピッカー（画像から色を抽出）](https://lab.syncer.jp/Tool/Image-Color-Picker/)  
 ・[グラフィックデザインサイト](https://www.canva.com/)  
-・[unsplash（フリー背景画像サイト）](https://unsplash.com/)
+・[unsplash（フリー背景画像サイト）](https://unsplash.com/)  
+・[web animation（アニメーション関連総まとめ）](https://awesome-web-animation.netlify.com/)  
 
 
 
@@ -36,7 +37,8 @@
 ・[【CSS3】@keyframes と animation 関連のまとめ](https://qiita.com/7968/items/1d999354e00db53bcbd8)  
 ・[CSSのクラス名を決めるときに使うリスト](https://qiita.com/manabuyasuda/items/dbb76ed36970bec95470)  
 ・[CSSのみでページを開くときのオープニングシャッター表現](https://digipress.info/tech/opening-loading-shutter-with-pure-css/)  
-・[最新版、レスポンシブデザインのブレークポイント](https://arts-factory.net/breakpoint/)
+・[最新版、レスポンシブデザインのブレークポイント](https://arts-factory.net/breakpoint/)  
+・[ヘッダーデザインの参考事例](https://web-kanji.com/posts/header-design)
 
 ### ■ Vue.js
 ・[Vue.js「コンポーネント」入門](https://qiita.com/kiyokiyo_kzsby/items/980c1dc45e00d2d3cbb4)
