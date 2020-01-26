@@ -1,6 +1,6 @@
   
 ### ■ 便利サイト
-・[JavaScriptのイベントをたくさん見られるサイト](https://listener.noplan.cc/)  
+
 ・[調和カラーパレット](http://paletta.mrk1869.com/)  
 ・[colrd](http://colrd.com/)  
 ・[CSS最適化](https://csscompressor.com/)  
@@ -24,7 +24,11 @@
 ・[MP4をGIFに変換](https://www.aconvert.com/jp/video/mp4-to-gif/)  
 ・[GIFサイズ圧縮](https://compressor.io/)
 
-### ■ GitHub  
+### ■ JavaScript
+・[JavaScriptのイベントをたくさん見られるサイト](https://listener.noplan.cc/)  
+・[とほほのJavaScriptリファレンス](http://www.tohoho-web.com/js/)  
+
+### ■ GitHub
 ・[GitHubマークダウン記法](https://web-generalist.com/github-comment-markdown/)  
 ・[Qiita/Github/Slack 絵文字一覧](https://qiita.com/yamadashiii/items/ae673f2bae8f1525b6af)  
 ・[Gitのコミットメッセージの書き方](https://qiita.com/itosho/items/9565c6ad2ffc24c09364)  
