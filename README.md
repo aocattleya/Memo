@@ -36,7 +36,7 @@
 ・[文字指定でGoogleフォントを軽量に呼び出す方法](https://9-bb.com/%E5%BF%85%E8%A6%81%E3%81%AA%E6%96%87%E5%AD%97%E3%81%A0%E3%81%91%E6%8C%87%E5%AE%9A%E3%81%97%E3%81%A6google%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88%E3%82%92%E6%9C%80%E3%82%82%E8%BB%BD%E9%87%8F%E3%81%AB/)
 
 ### ■ CSS
-・[animate.css](https://github.com/daneden/animate.css)
+・[animate.css](https://github.com/daneden/animate.css)  
 ・[【CSS3】@keyframes と animation 関連のまとめ](https://qiita.com/7968/items/1d999354e00db53bcbd8)  
 ・[CSSのクラス名を決めるときに使うリスト](https://qiita.com/manabuyasuda/items/dbb76ed36970bec95470)  
 ・[CSSのみでページを開くときのオープニングシャッター表現](https://digipress.info/tech/opening-loading-shutter-with-pure-css/)  
