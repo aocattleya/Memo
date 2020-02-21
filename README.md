@@ -3,7 +3,7 @@
 
 ・[web animation（アニメーション関連総まとめ）](https://awesome-web-animation.netlify.com/)  
 ・[調和カラーパレット](http://paletta.mrk1869.com/)  
-・[colrd](http://colrd.com/)  
+・[colrd（配色の組み合わせ）](http://colrd.com/)  
 ・[ホームページパーツ作成](https://webparts.cman.jp/)  
 ・[codic（変数名を作成）](https://codic.jp/)  
 ・[waifu2x（画像高画質化）](http://waifu2x.udp.jp/index.ja.html)  
@@ -41,6 +41,7 @@
 
 ### ■ CSS
 
+・[See-SS（よく使うCSSパーツサイト）](http://colrd.com/)  
 ・[CSS最適化](https://csscompressor.com/)  
 ・[animate.css](https://github.com/daneden/animate.css)  
 ・[【CSS3】@keyframes と animation 関連のまとめ](https://qiita.com/7968/items/1d999354e00db53bcbd8)  
