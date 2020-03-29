@@ -48,7 +48,7 @@
 
 ### ■ CSS
 
-・[See-SS（よく使うCSSパーツサイト）](http://colrd.com/)  
+・[See-SS（よく使うCSSパーツサイト）](https://see-ss.com/)  
 ・[CSS最適化](https://csscompressor.com/)  
 ・[animate.css](https://github.com/daneden/animate.css)  
 ・[【CSS3】@keyframes と animation 関連のまとめ](https://qiita.com/7968/items/1d999354e00db53bcbd8)  
