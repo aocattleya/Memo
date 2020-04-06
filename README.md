@@ -24,9 +24,11 @@
 ・[GIFサイズ圧縮](https://compressor.io/)
 
 
-### ■ UX
+### ■ UI/UX
 
-・[スーパーマリオのステージ1-1から学べるUX](https://uxmilk.jp/35280)
+・[スーパーマリオのステージ1-1から学べるUX](https://uxmilk.jp/35280)  
+・[ディズニーランドから学ぶ究極のUXデザインとは](https://blog.btrax.com/jp/disney-ux/)  
+・[アプリのアップデート500本ノックから学ぶUI改善のヒント](https://note.com/akira_miyazaki/n/nab9a1252ac4e)
 
 ### ■ JavaScript
 
