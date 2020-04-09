@@ -36,6 +36,7 @@
 ・[JavaScript最適化](https://developers.google.com/closure/compiler/)  
 ・[とほほのJavaScriptリファレンス](http://www.tohoho-web.com/js/)  
 ・[グラフを表示できるJavaScriptライブラリ](https://www.webcreatorbox.com/tech/chart-javascript)  
+・[実行速度を確認する](https://pbs.twimg.com/media/ETtItXpUcAA4wxA.jpg:large)
 
 ### ■ GitHub
 
