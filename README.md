@@ -63,7 +63,9 @@
 ### ■ SVG
 
 ・[UI改善にキラリと役立つ！
-SVGアニメーションの作り方まとめ](https://ics.media/entry/15970/)
+SVGアニメーションの作り方まとめ](https://ics.media/entry/15970/)  
+・[たった3行で美しいSVGアニメが作れる「Vivus」](https://www.webprofessional.jp/how-to-create-the-invisible-pen-effect-in-svg-using-vivus-js/)
+
 
 ### ■ Vue.js
 
