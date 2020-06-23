@@ -4,6 +4,7 @@
 ・[DeepL翻訳（機械学習で翻訳）](https://www.deepl.com/translator)  
 ・[web animation（アニメーション関連総まとめ）](https://awesome-web-animation.netlify.com/)  
 ・[removebg（画像の背景を自動で透過）](https://www.remove.bg/ja)  
+・[Stories（フリーイラスト）](https://stories.freepik.com/)  
 ・[調和カラーパレット](http://paletta.mrk1869.com/)  
 ・[colrd（配色の組み合わせ）](http://colrd.com/)  
 ・[ホームページパーツ作成](https://webparts.cman.jp/)  
