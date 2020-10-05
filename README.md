@@ -15,7 +15,8 @@
 ・[イメージカラーピッカー（画像から色を抽出）](https://lab.syncer.jp/Tool/Image-Color-Picker/)  
 ・[グラフィックデザインサイト](https://www.canva.com/)  
 ・[Waifu Labs](https://waifulabs.com/)  
-・[unsplash（フリー背景画像サイト）](https://unsplash.com/)  
+・[unsplash（フリー背景画像）](https://unsplash.com/)  
+・[DesignEvo（無料ロゴメーカー）](https://www.designevo.com/jp/)  
 
 ### ■ 画像
 
