@@ -1,6 +1,7 @@
 ### ■ 便利サイト
 
 ・[DeepL翻訳（機械学習で翻訳）](https://www.deepl.com/translator)  
+・[codic（変数ネーミング）](https://codic.jp/engine)  
 ・[web animation（アニメーション関連総まとめ）](https://awesome-web-animation.netlify.com/)  
 ・[removebg（画像の背景を自動で透過）](https://www.remove.bg/ja)  
 ・[Stories（フリーイラスト）](https://stories.freepik.com/)  
@@ -59,7 +60,8 @@
 ・[CSSのクラス名を決めるときに使うリスト](https://qiita.com/manabuyasuda/items/dbb76ed36970bec95470)  
 ・[CSSのみでページを開くときのオープニングシャッター表現](https://digipress.info/tech/opening-loading-shutter-with-pure-css/)  
 ・[最新版、レスポンシブデザインのブレークポイント](https://arts-factory.net/breakpoint/)  
-・[ヘッダーデザインの参考事例](https://web-kanji.com/posts/header-design)
+・[ヘッダーデザインの参考事例](https://web-kanji.com/posts/header-design)  
+・[CSS Flexboxチートシート](https://www.webcreatorbox.com/tech/css-flexbox-cheat-sheet)
 
 ### ■ SVG
 
@@ -88,10 +90,7 @@ SVGアニメーションの作り方まとめ](https://ics.media/entry/15970/)
 
 ---------
 
-### ■ chrome拡張機能なしで全画面キャプチャをダウンロードする方法
+### ■ Chrome
 
-開発者ツール開く  
-↓  
-⌘ + shift + P  
-↓  
-「full」と入力
+全画面キャプチャをダウンロードする方法  
+開発者ツール開く → ⌘ + shift + P → 「full」と入力
