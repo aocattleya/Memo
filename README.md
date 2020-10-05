@@ -88,8 +88,6 @@ SVGアニメーションの作り方まとめ](https://ics.media/entry/15970/)
 
 ・[プログラマが知るべき97のこと](https://xn--97-273ae6a4irb6e2hsoiozc2g4b8082p.com/)
 
----------
-
 ### ■ Chrome
 
 全画面キャプチャをダウンロードする方法  
