@@ -3,27 +3,27 @@
 ・[DeepL翻訳（機械学習で翻訳）](https://www.deepl.com/translator)  
 ・[codic（変数ネーミング）](https://codic.jp/engine)  
 ・[web animation（アニメーション関連総まとめ）](https://awesome-web-animation.netlify.com/)  
-・[removebg（画像の背景を自動で透過）](https://www.remove.bg/ja)  
 ・[Stories（フリーイラスト）](https://stories.freepik.com/)  
 ・[調和カラーパレット](http://paletta.mrk1869.com/)  
 ・[colrd（配色の組み合わせ）](http://colrd.com/)  
 ・[ホームページパーツ作成](https://webparts.cman.jp/)  
 ・[codic（変数名を作成）](https://codic.jp/)  
-・[waifu2x（画像高画質化）](http://waifu2x.udp.jp/index.ja.html)  
 ・[Web App Manifest Generator（マニュフェストファイル生成）](https://app-manifest.firebaseapp.com)  
 ・[LAPRAS（ネット上の自分の影響力を可視化）](https://lapras.com/person)  
 ・[PROCA（名刺サービス）](https://pro-ca.jp/)  
-・[イメージカラーピッカー（画像から色を抽出）](https://lab.syncer.jp/Tool/Image-Color-Picker/)  
 ・[グラフィックデザインサイト](https://www.canva.com/)  
 ・[Waifu Labs](https://waifulabs.com/)  
-・[unsplash（フリー背景画像）](https://unsplash.com/)  
 ・[DesignEvo（無料ロゴメーカー）](https://www.designevo.com/jp/)  
 
 ### ■ 画像
 
+・[waifu2x（画像高画質化）](http://waifu2x.udp.jp/index.ja.html)  
+・[removebg（画像の背景を自動で透過）](https://www.remove.bg/ja)  
 ・[画像サイズ圧縮](https://tinypng.com/)  
 ・[MP4をGIFに変換](https://www.aconvert.com/jp/video/mp4-to-gif/)  
 ・[GIFサイズ圧縮](https://compressor.io/)
+・[イメージカラーピッカー（画像から色を抽出）](https://lab.syncer.jp/Tool/Image-Color-Picker/)  
+・[unsplash（フリー背景画像）](https://unsplash.com/)  
 
 
 ### ■ UI/UX
