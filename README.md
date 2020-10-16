@@ -21,7 +21,7 @@
 ・[removebg（画像の背景を自動で透過）](https://www.remove.bg/ja)  
 ・[画像サイズ圧縮](https://tinypng.com/)  
 ・[MP4をGIFに変換](https://www.aconvert.com/jp/video/mp4-to-gif/)  
-・[GIFサイズ圧縮](https://compressor.io/)
+・[GIFサイズ圧縮](https://compressor.io/)  
 ・[イメージカラーピッカー（画像から色を抽出）](https://lab.syncer.jp/Tool/Image-Color-Picker/)  
 ・[unsplash（フリー背景画像）](https://unsplash.com/)  
 
