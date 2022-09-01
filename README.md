@@ -71,9 +71,7 @@ SVGアニメーションの作り方まとめ](https://ics.media/entry/15970/)
 ・[たった3行で美しいSVGアニメが作れる「Vivus」](https://www.webprofessional.jp/how-to-create-the-invisible-pen-effect-in-svg-using-vivus-js/)
 
 
-### ■ Vue.js
 
-・[Vue.js「コンポーネント」入門](https://qiita.com/kiyokiyo_kzsby/items/980c1dc45e00d2d3cbb4)
 
 ### ■ VSCode
 
