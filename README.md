@@ -70,14 +70,6 @@
 SVGアニメーションの作り方まとめ](https://ics.media/entry/15970/)  
 ・[たった3行で美しいSVGアニメが作れる「Vivus」](https://www.webprofessional.jp/how-to-create-the-invisible-pen-effect-in-svg-using-vivus-js/)
 
-### ■ VSCode
-
-・[コーディングをAIが支援してくれる「Visual Studio IntelliCode」](https://www.publickey1.jp/blog/18/aivisual_studio_intellicodejavagithub.html)
-
-
-### ■ その他
-
-・[プログラマが知るべき97のこと](https://xn--97-273ae6a4irb6e2hsoiozc2g4b8082p.com/)
 
 ### ■ Chrome
 
